@@ -1,0 +1,317 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Genshin Infarct</title>
+		<meta charset="utf-8" />
+		<meta name="fan" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+					<div class="container">
+
+						<!-- Logo -->
+							<h1 id="logo"><a href="index.html">Genshin Infarct</a></h1>
+							<p>Этот сайт расскажет вам немного о прекрасной компьютерной игре</p>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a class="icon fa-home" href="index.html"><span>Home</span></a></li>
+									<li>
+										<a href="#" class="icon fa-bar-chart-o"><span>Category</span></a>
+										<ul>
+											<li><a href="#">Артефакты</a></li>
+											<li><a href="#">Оружие</a></li>
+											<li>
+												<a href="#">Персонажи</a>
+												<ul>
+													<li><a href="#">Монштад</a></li>
+													<li><a href="#">Ли Юэ</a></li>
+													<li><a href="#">Инадзума</a></li>
+												</ul>
+											</li>
+											
+										</ul>
+									</li>
+									<li><a class="icon fa-sitemap" href="no-sidebar.html"><span>Contact us</span></a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</section>
+
+			<!-- Features -->
+				<section id="features">
+					<div class="container">
+						<header>
+							<h2>Лучшее в игре</h2>
+						</header>
+						<div class="row aln-center">
+							<div class="col-4 col-6-medium col-12-small">
+
+								<!-- Feature -->
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h3>Сюжет</h3>
+										</header>
+										<p>Сюжет <strong>Genshin Impact</strong> - это увлекательнейшие истории, которые могут начаться, когда вы слуйчайно заглянете в кусты</p>
+									</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<!-- Feature -->
+									<section>
+										<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+										<header>
+											<h3>Gameplay</h3>
+										</header>
+										<p>Путешествуя по миру, герой встречает новых спутников, присоединяющихся к его путешествию, каждый из которых имеет свои способности и специализацию</p>
+									</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<!-- Feature -->
+									<section>
+										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+										<header>
+											<h3>Персонажи</h3>
+										</header>
+										<p>У персонажей <strong>Genshin Impact</strong> отлично проработан дизайн. В этом плане <strong><a href="https://account.mihoyo.com" target='_blank'>miHoYo</a></strong> удается создавать действительно уникальные и запоминающиеся образы</p>
+									</section>
+
+							</div>
+							<div class="col-12">
+								<ul class="actions">
+									<li><a href="https://www.youtube.com/watch?v=hC0MqxfRz_4" target='_blank' class="button icon fa-file">Подробнее</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="container">
+						<p>Если свобода даётся тебе по команде... то это ненастоящая свобода.</p>
+					</div>
+				</section>
+
+			<!-- Main -->
+				<section id="main">
+					<div class="container">
+						<div class="row">
+
+							<!-- Content -->
+								<div id="content" class="col-8 col-12-medium">
+
+									<!-- Post -->
+										<article class="box post">
+											<header>
+												<h2>Сюжет, ивенты и встречи</h2>
+											</header>
+											<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+											<p><strong>Genshin Impact</strong> бережно сохранет ощущение приключений, 
+											и при этом добавляет больше сюжета. Пролог рассказывает о брате с сестрой, 
+											которые сталкиваются с неизвестным божеством и игроку сразу предстоит сделать 
+											моральный выбор кем пожертвовать, а кого божество заключит в Тевайте, мире, где 
+											герою предстоит скитаться и искать решение сложившейся ситуации. В течение первых 
+											часов игры, мы попадаем в Мондштадт, помогаем городу избавиться от дракона, а также 
+											узнаем больше интересных историй о различных персонажах, вплоть до NPC уровня продавца 
+											овощей. При этом Genshin Impact в какой-то момент аккуратно замедляет продвижение сюжета, 
+											подталкивая игрока выполнять побочные задания, посвященные историям отдельных персонажей, 
+											а также попутешествовать по точкам интереса, каждая из которых также даст необходимый опыт 
+											для повышения уровня и открытия следующей сюжетной главы. </p>
+											<ul class="actions">
+												<li><a href="https://www.youtube.com/watch?v=EQMijhVgwYc" target='_blank' class="button icon fa-file">Подробнее о сюжете</a></li>
+											</ul>
+										</article>
+
+									<!-- Post -->
+										<article class="box post">
+											<header>
+												<h2>Персонажи</h2>
+											</header>
+											<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+											<p>В игре множество персонажей. Некоторых дают бесплатно, других - при достижении 
+											определенного уровня или в награду за временные события. Каждый отличается стихиями
+											 и типом оружия, у каждого своя атака, обычная и ультимативная способность. Оружие и 
+											предметы в игре не ломаются. В игре не предполагают задонатить, чтобы пройти дальше.
+											Ограничения в ресурсах нет. Вы можете бесплатно скачать <strong>Genshin Impact</strong>, 
+											бесплатно пройти сюжетную компанию, 
+											ни разу при этом не использовав систему доната.</p>
+											<ul class="actions">
+												<li><a href='https://genshin.mihoyo.com/en/download' target='_blank' class="button icon fa-file">Скачать Genshin Impact</a></li>
+											</ul>
+										</article>
+
+								</div>
+
+							<!-- Sidebar -->
+								<div id="sidebar" class="col-4 col-12-medium">
+
+									<!-- Excerpts -->
+										<section>
+											<ul class="divided">
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<span class="date">+ игры</span>
+																<h3>Кроссплатформность</h3>
+															</header>
+															<p>Многим кажется невероятным, что такая приятная RPG, в которую многие с удовольствием играют на ПК и консоли, может быть так же легко воспроизведена на мобильном устройстве. <strong>Genshin Inpact</strong> показал, что доступность на разных платформах всегда является значительным плюсом для любого проекта.</p>
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<span class="date">+ игры</span>
+																<h3>Мультиплеер</h3>
+															</header>
+															<p>Это отличная возможность поиграть с друзьями и помочь друг другу в победе над особенно сильным боссом или пройти высокоуровневый данж.</p>
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<span class="date">+ игры</span>
+																<h3>Графика и звук</h3>
+															</header>
+															<p>Подчёркнуто живописная картинка сразу чаровывает и приковывает взгляд, очень приятная музыка создает нужную атмосферу. Сразу понимаешь, что это красиво, серьёзно и надолго.</p>
+														</article>
+
+												</li>
+											</ul>
+										</section>
+
+									<!-- Highlights -->
+										<section>
+											<ul class="divided">
+												<li>
+
+													<!-- Highlight -->
+														<article class="box highlight">
+															<header>
+																<h3><a href="#">Ивенты</a></h3>
+															</header>
+															<a href="#" class="image left"><img src="images/pic06.jpg" alt="" /></a>
+															<p>Ивент - это событие, которое предостовляет игрокам возможность отдохнуть 
+															от обычного сюжета, найти новые приключения, познакомиться с новыми героями и 
+															насладиться мини-играми с вкусной наградой.</p>
+															<ul class="actions">
+																<li><a href="https://www.youtube.com/watch?v=jtC2CE0_mAg" target='_blank' class="button icon fa-file">Подробнее</a></li>
+															</ul>
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Highlight -->
+														<article class="box highlight">
+															<header>
+																<h3><a href="#">Враги</a></h3>
+															</header>
+															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
+															<p>В игре отличная боевая система. Враги, также как и игровые персонажи, 
+															отличаются принадлежностью к разным элементальным стихиям. Это нужно учитывать 
+															и комбинировать.Сами драки выглядят динамично, зрелищно, управление в них очень 
+															удобное + нюансы со стихиями придают сражениям глубину.</p>
+															<ul class="actions">
+																<li><a href="https://genshin-info.ru/wiki/elitnye-vragi/" target='_blank' class="button icon fa-file">Подробнее</a></li>
+															</ul>
+														</article>
+
+												</li>
+											</ul>
+										</section>
+
+								</div>
+
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<section id="footer">
+					<div class="container">
+						<header>
+							<h2>Информация</h2>
+						</header>
+						<div class="row">
+							<div class="col-6 col-12-medium">
+								<section>
+									<a href="#" class="image featured"><img board='2' align='left' src="images/pic08.jpg" alt="" /></a>
+								</section>
+							</div>
+							<div class="col-6 col-12-medium">
+								<section>
+									<p><strong>Genshin Impact</strong> — компьютерная игра в жанре action-adventure 
+									с открытым миром и элементами RPG, разработанная китайской компанией miHoYo Limited.</p> 
+									<p>Ниже прдставленны ссылки на официальные страницы социальных сетей Genshin Impact.</p>
+									<div class="row">
+										<div class="col-6 col-12-small">
+											<ul class="icons">
+												<li class="icon fa-home">
+													<a href="https://genshin.mihoyo.com/ru/home" target='_blank'>Официальный сайт</a>
+												</li>
+												<li class="icon fa-envelope">
+													<a href="https://vk.com/genshinimpact">vk.com/genshinimpact</a>
+												</li>
+												<li class="icon fa-twitter">
+													<a href="https://twitter.com/genshinimpact" target='_blank'>@GenshinImpact</a>
+												</li>
+												<li class="icon fa-facebook">
+													<a href="https://ru-ru.facebook.com/Genshinimpact/" target='_blank'>facebook.com/Genshinimpact</a>
+												</li>
+												
+											</ul>
+										</div>
+										<div class="col-6 col-12-small">
+											<ul class="icons">
+												<li class="icon fa-instagram">
+													<a href="https://www.instagram.com/genshinimpact/" target='_blank'>instagram.com/genshinimpact</a>
+												</li>
+												</li>
+												<li class="icon fa-dribbble">
+													<a href="#">C идеями по оформлению помогала А.Вaйда</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+					<div id="copyright" class="container">
+						<ul class="links">
+							<li>Для вас старалась студентки группы №3043</li><li>Шевченко Дарьюшка</li>
+						</ul>
+					</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
